@@ -3,7 +3,7 @@ import java.util.List;
 
 class CarObservation {
     String plateNumber;
-    String carType; // Private, Truck, Bus
+    String carType; 
     int speed;
     boolean seatbeltFastened;
 
